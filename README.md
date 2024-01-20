@@ -19,7 +19,7 @@ Below is a list of commonly used launch arguments for Fortnite:
 |      Argument       |               Description               |
 | :-----------------: | :-------------------------------------: |
 |     `-WINDOWED`     |    Set game to run in windowed mode     |
-|    `FULLSCREEN`     |   Set game to run in fullscreen mode    |
+|    `-FULLSCREEN`     |   Set game to run in fullscreen mode    |
 |      `-d3d11`       |    Forces the game to use DirectX 11    |
 |      `-d3d12`       |    Forces the game to use DirectX 12    |
 | `-FeatureLevelES31` | Forces the game to use Performance Mode |
